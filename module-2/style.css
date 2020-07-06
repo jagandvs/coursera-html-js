@@ -17,11 +17,11 @@
 .box {
     position : relative;
     margin : 10px;
-    height: 150px; 
+    height: 160px; 
     border : 1px solid black;
     background-color: grey;
     color: black;
-
+    overflow: auto;
 }
 
 .box div.sampletest{
@@ -29,6 +29,7 @@
   top : 25px;
   text-align: justify;
   padding :10px;
+  
 }
 
 .heading1{
