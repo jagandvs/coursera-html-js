@@ -37,7 +37,7 @@
   width : 20%;
   text-align: center;
   vertical-align: center;
-  position : absolute;
+  float: right;
   background-color: green;
   border-left:1px solid black;
   border-bottom: 1px solid black;
